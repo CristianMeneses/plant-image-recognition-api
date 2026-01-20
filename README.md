@@ -34,8 +34,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/CristianMeneses/plant-image-recognition-api/tree/main/app
-    cd IA_Detection/API
+    git clone https://github.com/CristianMeneses/plant-image-recognition-api.git
+    cd plant-image-recognition-api/API
     ```
 
 2.  **Crear un entorno virtual (recomendado):**
