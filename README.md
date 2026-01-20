@@ -1,4 +1,4 @@
-# IA_Detection
+# plant-image-recognition-api
 
 Este proyecto implementa una API de detección de especies de plantas utilizando un modelo de TensorFlow Lite. La aplicación Flask permite subir imágenes y obtener predicciones sobre la especie de planta que contienen.
 
@@ -71,7 +71,7 @@ Este endpoint permite enviar una imagen para su análisis y obtener la predicci�
 
 **Parámetros de la solicitud:**
 
-*   `file` (multipart/form-data): El archivo de imagen a analizar.
+- `file` (multipart/form-data): El archivo de imagen a analizar.
 
 **Ejemplo de respuesta exitosa (200 OK):**
 
