@@ -1,0 +1,5 @@
+.vercel
+.env*.local
+.venv
+__pycache__
+/docs/images
