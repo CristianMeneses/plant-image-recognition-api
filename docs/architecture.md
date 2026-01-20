@@ -12,20 +12,19 @@ Este proyecto implementa una API web para la detección de especies de plantas u
 │   ├── app.py
 │   ├── image_utils.py
 │   ├── labels.json
-│   ├── model_loader.py
-│   └── plant_species.tflite
-├── Dockerfile
+│   └── model_loader.py
 ├── docs/
 │   ├── api_guide.md
 │   ├── architecture.md
-│   ├── deployment.md
-│   └── README.md
-├── requirements.txt
-└── training/
-    ├── models/
-    │   └── plant_species.tflite
-    └── notebook/
-        └── Entrenamiento IA.ipynb
+│   └── deployment.md
+├── training/
+│    ├── models/
+│    │   └── plant_species.tflite
+│    └── notebook/
+│        └── Entrenamiento IA.ipynb
+├── Dockerfile
+├── README.md
+└── requirements.txt
 ```
 
 ## Dependencias y Versiones
